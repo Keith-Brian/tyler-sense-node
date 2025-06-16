@@ -54,3 +54,61 @@ You can find the complete schematic [here](./Tyler-Sense.pdf).
 
 ## 📁 Folder Structure
 
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+- Arduino IDE / PlatformIO
+- ESP32 board support installed
+- TinyGSM, DHT, BH1750, and Adafruit sensor libraries
+- Micro SIM card with data/SMS enabled
+
+### 🔌 Wiring Tips
+
+Refer to the schematic to wire components properly.  
+Ensure the SIM800L module has stable power (~2A peak current capable).
+
+---
+
+## 🛠️ Future Plans
+
+- OTA updates via GSM
+- Android dashboard (Kotlin + Jetpack Compose)
+- MQTT integration
+- Remote SMS command interface
+- Solar power optimization
+
+---
+
+## 💡 Inspiration
+
+This project is built in memory of my late friend **Tyler**, whose curiosity and resilience continue to inspire my work.  
+May this system light homes and hearts just as he did.
+
+---
+
+## 📜 License
+
+[MIT License](LICENSE)
+
+---
+
+## 🙏 Acknowledgments
+
+- Tyler, for the inspiration  
+- Open-source libraries and community contributions  
+- Friends and mentors supporting the build
+
+---
+
+## 🌍 Connect
+
+📧 keithbrian.dev@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/keith-brian/)  
+🔬 [64 Sense Technologies](https://github.com/your-company-page)
+
+---
+
